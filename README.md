@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adriano-FER
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript and Typescript
-- 💞️ I’m looking to collaborate on any project based on js and ts
-- 📫 How to reach me adrianofp-94@hotmail.es
-
+Im Adriano,
+I have been working in HTML5 , CSS3 , Javascript and React so far,
+You can check some of my solo projects and collabs,
+So far im trying to learn as much as i can in frontend before approaching to backend and becoming a full stack developer,
+im looking foward to show my skills, and learn in the progress, so im open to any collab.
+Thanks!
